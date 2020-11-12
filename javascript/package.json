@@ -1,0 +1,28 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mheere/learn.git"
+  },
+  "author": "m heeremans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mheere/learn/issues"
+  },
+  "homepage": "https://github.com/mheere/learn#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "regenerator-runtime": "^0.13.7"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.10.4",
+    "babel-jest": "^26.3.0",
+    "jest": "^26.4.2"
+  }
+}

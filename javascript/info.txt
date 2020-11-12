@@ -1,0 +1,6 @@
+testing of lots of ES6+ features
+
+yarn install
+
+to start: parcel index.html
+

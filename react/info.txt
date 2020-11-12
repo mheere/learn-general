@@ -1,0 +1,4 @@
+Run this through:    parcel index.html
+
+
+Spencer Clark - WDX - cloud only .Net core - kuber

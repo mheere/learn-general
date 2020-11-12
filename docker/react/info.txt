@@ -1,0 +1,4 @@
+docker build -t react-dev-project -f Dockerfile.dev .
+
+docker run -p 3001:3000 -v /app/node_modules -v %cd%:/app -e CHOKIDAR_USEPOLLING=true react-dev-project
+
