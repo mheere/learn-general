@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>creditcardengine_mock_test</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="CreditCardApplications.csproj" />
+  </ItemGroup>
+
+</Project>
