@@ -8,8 +8,6 @@ class Person {
     }
 }
 
-debugger;
-
 // 1. Create an array of Person objects (10 items)
 let arr = Array.from(Array(10), (x, index) => new Person("marcel", index + 10));
 
