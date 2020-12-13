@@ -1,0 +1,11 @@
+// HANDY - add this to 'scripts' section (quickly removes node_modules)
+"remove-nm": "rm -rf node_modules"
+
+
+// really update all package.json to latest major etc version!
+rm -rf node_modules
+npm install -g npm-check-updates
+ncu
+ncu -u
+npm install
+
